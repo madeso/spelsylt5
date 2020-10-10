@@ -15,5 +15,5 @@ my entry in the kodsnack gamejam: spelsylt 5, about a hunter killing things for 
 
 | Day | Date  | Hours | Notes |
 |-----|-------|-------|-------|
-| 01  | 10/10 |  0.0  | created project and itch.io page |
+| 01  | 10/10 |  2.0  | created project and itch.io page, copied code from old gamejam and made some temporary art |
 
